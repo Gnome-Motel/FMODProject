@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{efa0d261-3ddd-4b2f-988a-a81cba6ac6ab}">
+		<property name="name">
+			<value>Grab Speed</value>
+		</property>
+		<relationship name="folder">
+			<destination>{47d27d6c-81c5-4cc4-90e2-2c4d38f66f9a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{f7abd669-befa-4b1a-a0e9-6db78060e25a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{f7abd669-befa-4b1a-a0e9-6db78060e25a}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
