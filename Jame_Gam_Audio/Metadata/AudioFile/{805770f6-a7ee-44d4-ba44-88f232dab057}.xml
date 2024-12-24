@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{805770f6-a7ee-44d4-ba44-88f232dab057}">
+		<property name="assetPath">
+			<value>LevelKick.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>135.13142857142856</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{13273004-6265-4910-a5f0-a8ae5c573fa1}</destination>
+		</relationship>
+	</object>
+</objects>

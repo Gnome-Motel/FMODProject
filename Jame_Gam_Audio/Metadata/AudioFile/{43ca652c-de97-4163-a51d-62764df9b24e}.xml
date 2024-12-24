@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{43ca652c-de97-4163-a51d-62764df9b24e}">
+		<property name="assetPath">
+			<value>Ocarina happy.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.3293424036281178</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{13273004-6265-4910-a5f0-a8ae5c573fa1}</destination>
+		</relationship>
+	</object>
+</objects>

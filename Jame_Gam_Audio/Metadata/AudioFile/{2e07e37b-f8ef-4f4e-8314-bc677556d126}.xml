@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2e07e37b-f8ef-4f4e-8314-bc677556d126}">
+		<property name="assetPath">
+			<value>Sting ensemble happy.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.6805442176870748</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{13273004-6265-4910-a5f0-a8ae5c573fa1}</destination>
+		</relationship>
+	</object>
+</objects>

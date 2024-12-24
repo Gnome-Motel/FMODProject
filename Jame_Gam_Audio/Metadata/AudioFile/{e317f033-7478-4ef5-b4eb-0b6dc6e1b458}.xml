@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e317f033-7478-4ef5-b4eb-0b6dc6e1b458}">
+		<property name="assetPath">
+			<value>love song v2_mixdown.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>31.477551020408164</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{13273004-6265-4910-a5f0-a8ae5c573fa1}</destination>
+		</relationship>
+	</object>
+</objects>
